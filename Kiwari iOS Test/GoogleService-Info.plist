@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>440211463415-fki2480mvnki1sd7epqop5cl171in6qn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.440211463415-fki2480mvnki1sd7epqop5cl171in6qn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDWPkoAULFStZAsVgR-X7qm3oQgX97Vxqc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>440211463415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rasyidrw.Kiwari-iOS-Test</string>
+	<key>PROJECT_ID</key>
+	<string>kiwari-ios-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>kiwari-ios-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:440211463415:ios:1ccf2751b24d07b58ac7f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://kiwari-ios-project.firebaseio.com</string>
+</dict>
+</plist>
